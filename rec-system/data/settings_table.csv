@@ -1,4 +1,4 @@
-,id,setting_type,font_color,background_color,font_size,font_weight,font_family,letter_spacing,line_spacing,word_spacing,text_alignment,is_auto_play_tts,bionic_reading,lists with bullets,wcag_compliant,score
+,id,setting_type,font_color,background_color,font_size,font_weight,font_family,letter_spacing,line_spacing,word_spacing,text_alignment,is_auto_play_tts,bionic_reading,lists_with_bullets,wcag_compliant,score
 0,40000001,90000001D,matte black,light gray,13,regular,Open Sans,4.55,19.5,68.25,left aligned,False,False,False,True,81.2
 1,40000002,90000002D,yellow,orange,9,regular,Helvetica,1.18,12.5,1.24,left aligned,False,False,False,False,69.3
 2,40000003,90000003A,nightrider,quartz,15,bold,Poppins,1.8,22.5,2.4,left aligned,False,False,False,True,83.4
